@@ -39,7 +39,9 @@ demo: Sample conversations and usage scenarios
 docs: Project notes and architecture diagrams
 
 To try out the chatbot or run the analysis pipeline locally, follow the setup instructions in the docs/setup_guide.md file.
+
 ---
+
 # Frameworks, Languages, and Libraries Used: 
 - Python
 - Juypter Notebook
