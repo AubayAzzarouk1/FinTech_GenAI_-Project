@@ -28,6 +28,9 @@ This project explores the intersection of generative AI and financial data analy
 ---
 ## The repository is organized into the following folders:
 
+GENAI - Financial Metrics Excelsheet.csv
+GENAI - Financial Metrics Excelsheet.xlsx
+
 data_extraction: Scripts for parsing and structuring SEC filings
 
 financial_analysis: Jupyter notebooks with key metric calculations and trend analysis
